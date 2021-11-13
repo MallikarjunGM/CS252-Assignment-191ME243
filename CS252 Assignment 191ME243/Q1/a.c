@@ -1,7 +1,7 @@
 /*Mallikarjun G M 191ME243
 CS252 Assignment
 Question number 3.19
-
+git?
 A program is to created that takes a command as an argument from
 the terminal and display the time it takes to Run the said command.
 2 versions of this program should be written, with different method of
